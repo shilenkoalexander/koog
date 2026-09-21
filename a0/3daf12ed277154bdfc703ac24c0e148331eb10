@@ -1,7 +1,9 @@
 agents/agents-features/agents-features-opentelemetry/src/commonMain/kotlin/ai/koog/agents/features/opentelemetry/integration/langfuse/LangfuseSpanAdapter.kt
   s_6e34fc2405d686::t_20dafebba61dcd 158-159,161,171-173
+  s_335b229b0ca2b2::t_0daceb84f2f9c7 158-159,161,171-173
 agents/agents-features/agents-features-opentelemetry/src/jvmTest/kotlin/ai/koog/agents/features/opentelemetry/integration/langfuse/LangfuseSpanAdapterTest.kt
   s_6e34fc2405d686::t_2d2117bd1f5520 193-223
+  s_9614d42bc03d13::t_c9851df6929e0b 193-223
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -9,11 +11,27 @@ agents/agents-features/agents-features-opentelemetry/src/jvmTest/kotlin/ai/koog/
   "base_commit_sha": "a03daf12ed277154bdfc703ac24c0e148331eb10",
   "prompts": {},
   "sessions": {
+    "s_335b229b0ca2b2": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "76ec0ba9-e0fb-43a7-b7eb-69568d8f2c67",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Oleksandr Shylenko <oleksandr.shylenko@gooddata.com>"
+    },
     "s_6e34fc2405d686": {
       "agent_id": {
         "tool": "claude",
         "id": "1b583c3f-becd-4732-9b10-ad4e8f81a70f",
         "model": "claude-opus-5"
+      },
+      "human_author": "Oleksandr Shylenko <oleksandr.shylenko@gooddata.com>"
+    },
+    "s_9614d42bc03d13": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "agent-a52d723da73740dc7",
+        "model": "unknown"
       },
       "human_author": "Oleksandr Shylenko <oleksandr.shylenko@gooddata.com>"
     }
