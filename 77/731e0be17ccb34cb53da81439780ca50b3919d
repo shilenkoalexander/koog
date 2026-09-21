@@ -1,0 +1,23 @@
+prompt/prompt-executor/prompt-executor-clients/prompt-executor-google-client/src/commonMain/kotlin/ai/koog/prompt/executor/clients/google/GoogleLLMClient.kt
+  s_6e34fc2405d686::t_3095f2b0a067cf 201-203,778,784-787
+prompt/prompt-executor/prompt-executor-clients/prompt-executor-google-client/src/commonMain/kotlin/ai/koog/prompt/executor/clients/google/models/GoogleGenerateContent.kt
+  s_6e34fc2405d686::t_6615912f637904 479-480,489
+prompt/prompt-executor/prompt-executor-clients/prompt-executor-google-client/src/jvmTest/kotlin/ai/koog/prompt/executor/clients/google/GoogleLLMClientTest.kt
+  s_6e34fc2405d686::t_7aec287be6f13a 17,39,553-623
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "77731e0be17ccb34cb53da81439780ca50b3919d",
+  "prompts": {},
+  "sessions": {
+    "s_6e34fc2405d686": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1b583c3f-becd-4732-9b10-ad4e8f81a70f",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Oleksandr Shylenko <oleksandr.shylenko@gooddata.com>"
+    }
+  }
+}
