@@ -1,0 +1,23 @@
+AGENTS.md
+  s_71fcbc12ba0dcb::t_2990e720247832 19-20,98-99
+a2a/CLAUDE.md
+  s_71fcbc12ba0dcb::t_654ab923d01cf1 38,65,110,120,174,177
+examples/simple-examples/CLAUDE.md
+  s_71fcbc12ba0dcb::t_01d234df931dd6 49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "64aeac776af7f40b683adb684b2bf55c6134c24f",
+  "prompts": {},
+  "sessions": {
+    "s_71fcbc12ba0dcb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "b006f555-4fb2-49c6-b96a-fc65829dd4ad",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Oleksandr Shylenko <oleksandr.shylenko@gooddata.com>"
+    }
+  }
+}
