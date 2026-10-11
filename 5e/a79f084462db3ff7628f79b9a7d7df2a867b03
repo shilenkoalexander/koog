@@ -1,12 +1,12 @@
-agents/agents-features/agents-features-opentelemetry/src/commonMain/kotlin/ai/koog/agents/features/opentelemetry/integration/langfuse/LangfuseSpanAdapter.kt
-  s_5a8e22f805d761::t_fd4074cdc024fe 131,158,187-193
 agents/agents-features/agents-features-opentelemetry/src/jvmTest/kotlin/ai/koog/agents/features/opentelemetry/integration/langfuse/LangfuseSpanAdapterTest.kt
   s_5a8e22f805d761::t_11f7fc5141f2e7 22-23,30-35,201-230,239
+agents/agents-features/agents-features-opentelemetry/src/commonMain/kotlin/ai/koog/agents/features/opentelemetry/integration/langfuse/LangfuseSpanAdapter.kt
+  s_5a8e22f805d761::t_fd4074cdc024fe 131,158,187-193
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "d6d76d2263f49fd92303c20a93986deba8d30db1",
+  "base_commit_sha": "5ea79f084462db3ff7628f79b9a7d7df2a867b03",
   "prompts": {},
   "sessions": {
     "s_5a8e22f805d761": {
