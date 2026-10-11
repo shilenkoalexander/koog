@@ -6,7 +6,7 @@ agents/agents-features/agents-features-opentelemetry/src/jvmTest/kotlin/ai/koog/
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.5",
-  "base_commit_sha": "97133ac42e209b86dabf7682e05b1e08d9b8b015",
+  "base_commit_sha": "d6d76d2263f49fd92303c20a93986deba8d30db1",
   "prompts": {},
   "sessions": {
     "s_5a8e22f805d761": {
