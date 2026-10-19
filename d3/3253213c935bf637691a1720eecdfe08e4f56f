@@ -1,0 +1,22 @@
+agents/agents-features/agents-features-opentelemetry/src/commonMain/kotlin/ai/koog/agents/features/opentelemetry/integration/langfuse/LangfuseSpanAdapter.kt
+  s_3e5d370676284d::t_69cb794b9a8a82 13,19-20,111-113,155-174,244-246
+agents/agents-features/agents-features-opentelemetry/src/jvmTest/kotlin/ai/koog/agents/features/opentelemetry/integration/langfuse/LangfuseSpanAdapterTest.kt
+  s_3e5d370676284d::t_4a798c4bf735be 23,25,40-55,430-443,590-601
+  s_3e5d370676284d::t_6decab2924d2ef 602-604
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d33253213c935bf637691a1720eecdfe08e4f56f",
+  "prompts": {},
+  "sessions": {
+    "s_3e5d370676284d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "896f48e6-9b99-42cd-be3d-85d026ac6ad3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Oleksandr Shylenko <oleksandr.shylenko@gooddata.com>"
+    }
+  }
+}
