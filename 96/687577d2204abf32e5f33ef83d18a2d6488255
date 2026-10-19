@@ -1,0 +1,23 @@
+prompt/prompt-executor/prompt-executor-clients/prompt-executor-google-client/src/commonMain/kotlin/ai/koog/prompt/executor/clients/google/GoogleLLMClient.kt
+  s_3e5d370676284d::t_4b48da5991006f 202,783,930-937
+  s_3e5d370676284d::t_cf795b464d3681 30
+prompt/prompt-executor/prompt-executor-clients/prompt-executor-google-client/src/jvmTest/kotlin/ai/koog/prompt/executor/clients/google/GoogleLLMClientTest.kt
+  s_3e5d370676284d::t_0da411231de1d3 554,588,623-624
+  s_3e5d370676284d::t_fa6e5c8f9feafc 718-795
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "96687577d2204abf32e5f33ef83d18a2d6488255",
+  "prompts": {},
+  "sessions": {
+    "s_3e5d370676284d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "896f48e6-9b99-42cd-be3d-85d026ac6ad3",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Oleksandr Shylenko <oleksandr.shylenko@gooddata.com>"
+    }
+  }
+}
